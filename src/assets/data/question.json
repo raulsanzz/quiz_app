@@ -1,0 +1,39 @@
+{
+  "title": "Quiz 1 - HTML / CSS / JS PRACTICE",
+  "data": [
+    {
+      "id": 1,
+      "question": "HTML stands for:",
+      "answers": [
+        "HighText Machine Language",
+        "HyperText and links Markup Language",
+        "HyperText Markup Language",
+        "None of these"
+      ],
+      "correct_answer": "HyperText Markup Language"
+    },
+    {
+      "id": 2,
+      "question": "The correct sequence of HTML tags for starting a webpage is:",
+      "answers": [
+        "Head, Title, HTML, body",
+        "HTML, Body, Title, Head",
+        "HTML, Title, Head, Body",
+        "HTML, Head, Title, Body"
+      ],
+      "correct_answer":  "HTML, Head, Title, Body"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is the container for <tr>, <th>, and <td>:",
+      "answers": [
+        "<data>",
+        "<table>",
+        "<group>",
+        "All of the above"
+      ],
+      "correct_answer":"<table>"
+    }
+   
+  ]
+}
